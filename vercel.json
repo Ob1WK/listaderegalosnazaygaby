@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/gifts",
+      "destination": "https://invitacionnazaygaby.vercel.app/api/gifts"
+    }
+  ]
+}
